@@ -193,6 +193,8 @@ Like all other Gnome-shell extensions (that provide such 'settings' page), there
     
 and enter your NordVPN logins.
 
+  You might be logged in SuperUser. Try without sudo.
+
 ***The extension seems to be blocked in some sort of “ waiting state ”.***
 
   This extension is supposed to react to the current state of the NordVPN server connection given by the 'nordvpn' CLI tool and the 'nordvpnd' systemd daemon. Therefore, you might need to use those tool to fix the issue.
